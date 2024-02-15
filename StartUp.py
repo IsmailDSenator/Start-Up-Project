@@ -9,7 +9,7 @@ data= pd.read_csv('https://raw.githubusercontent.com/arib168/data/main/50_Startu
 data.to_csv('Startup.csv')
 
 st.markdown("<h1 style = 'color:#0802A3; text-align: center; font-family: Arial Black'>STARTUP PROJECT</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style = 'margin: -30px; color:#000000; text-align: center; font-family: cursive '>Built By GomyCode MTW</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style = 'margin: -30px; color:#000000; text-align: center; font-family: cursive '>Built By Ismail Ibitoye</h4>", unsafe_allow_html=True)
 
 st.image('pngwing.com (2).png', width=200, use_column_width=True)
 
